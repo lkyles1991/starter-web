@@ -13,3 +13,7 @@ some introduction text
 ## Deployment
 
 some deployment text
+
+### Copyright
+
+some coopyright message
